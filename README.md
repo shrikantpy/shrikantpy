@@ -45,7 +45,7 @@ With 20+ years in **Data Engineering, Oracle Apps, and BI**, I now focus on **bu
 ---
 
 💡 *"AI won’t replace humans, but humans with AI will replace humans without AI."*  
-📬 Reach me at: [Shrikant Yalakki](https://www.linkedin.com/in/shrikantyalakki) 
+📬 Reach me at: [Shrikant Yalakki](https://www.linkedin.com/in/shrikantyalakki) | [Portfolio](https://shrikantpy.github.io)
 
 <!---
 shrikantpy/shrikantpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
