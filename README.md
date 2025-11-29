@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shrikant Yalakki  
 
-🎯 **Generative AI Engineer | LLM Application Developer | Data & Analytics Specialist**  
+🎯 **Data & BI Analyst | AI/ML Engineer | Oracle DBA | Analytics Practitioner**  
 
 With 20+ years in **Data Engineering, Oracle Apps, and BI**, I now focus on **building, fine-tuning, and deploying GenAI solutions** that merge deep enterprise knowledge with cutting-edge AI.
 
