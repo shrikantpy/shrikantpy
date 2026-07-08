@@ -1,53 +1,58 @@
-# 👋 Hi, I’m Shrikant Yalakki  
+# Hi, I'm Shrikant 👋
 
-🎯 **Data & BI Analyst | AI/ML Engineer | Oracle DBA | Analytics Practitioner**  
+**Data Engineering & Oracle ERP veteran (20+ years) → now building Agentic AI systems for enterprise data.**
 
-With 20+ years in **Data Engineering, Oracle Apps, and BI**, I now focus on **building, fine-tuning, and deploying GenAI solutions** that merge deep enterprise knowledge with cutting-edge AI.
-
----
-
-## 🚀 Areas of Expertise
-- **LLM Engineering:** Prompt optimization, RAG pipelines, multi-agent systems
-- **Model Customization:** LoRA fine-tuning, domain adaptation for enterprise data
-- **Multi-Modal AI:** Text, image, audio, and document processing
-- **AI for BI:** Integrating GenAI into Power BI, Tableau, and Oracle data pipelines
-- **MLOps for GenAI:** Deployment via FastAPI, Streamlit, and Docker
+I've spent two decades designing data pipelines, BI solutions, and Oracle-based enterprise systems. I'm now applying that foundation to the next layer of the stack: **AI agents that can reason over, query, and act on enterprise data** — safely and observably.
 
 ---
 
-## 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![LangChain](https://img.shields.io/badge/LangChain-Framework-orange)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Indexing-green)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow)
-![PyTorch](https://img.shields.io/badge/PyTorch-ML-red)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-teal)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![PowerBI](https://img.shields.io/badge/PowerBI-Business_Intelligence-gold)
+## 🔭 Currently Building
+
+> These projects are in active development — links will go live as each one ships.
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **Agentic BI Analyst** | Natural-language questions → planned SQL → validated results → charts & summary, over a mock ERP schema | LangGraph, PostgreSQL, FastAPI | 🚧 In progress |
+| **Enterprise RAG with Evals** | Hybrid retrieval + reranking with a full evaluation harness (faithfulness, answer relevance, context precision) | LlamaIndex, RAGAS, Qdrant | 🚧 In progress |
+| **MCP Server for SQL Databases** | Exposes a relational database to Claude and other agents via the Model Context Protocol | Python, MCP SDK | 📋 Planned |
+| **Multi-Agent Workflow with Observability** | Planner → Executor → Critic pattern with tracing, retries, and human-in-the-loop approval | LangGraph, Langfuse, Docker | 📋 Planned |
 
 ---
 
-## 📂 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Enterprise RAG Assistant](#) | Domain-specific chatbot over Oracle ERP data | LangChain, OpenAI, Pinecone |
-| [Multi-Modal AI Dashboard](#) | AI-powered BI dashboard with NL-to-SQL | GPT-4, Power BI, Python |
-| [LoRA Fine-tuning Pipeline](#) | Fine-tuning LLaMA on business glossary | HuggingFace, PyTorch |
-| [AI Compliance Checker](#) | Detect policy violations in enterprise documents | OpenAI, LangChain, FastAPI |
-| [Multi-Agent BI Analyst](#) | Autonomous agents for business insight generation | CrewAI, LangGraph |
+## 🧠 Focus Areas
+
+- **Agentic AI** — tool/function calling, structured outputs, agent memory, multi-agent orchestration (LangGraph)
+- **RAG systems** — hybrid search, reranking, chunking strategies, and *evaluation* (RAGAS, custom eval harnesses)
+- **MCP (Model Context Protocol)** — connecting agents to enterprise tools and data sources
+- **LLMOps** — tracing, cost tracking, guardrails, prompt versioning, deployment (Docker + FastAPI)
+
+## 🏗️ Foundation (20+ years)
+
+- **Data Engineering** — ETL/ELT pipeline design, data warehousing, data modeling
+- **Oracle ERP & Databases** — PL/SQL, performance tuning, enterprise integrations
+- **Business Intelligence** — reporting, dashboards, semantic layers
+- **Python & SQL** — daily drivers
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrikantpy&show_icons=true&theme=radical)
+## 🛠️ Tech Stack
+
+**Languages:** Python · SQL · PL/SQL
+**AI/ML:** LangGraph · LangChain · LlamaIndex · OpenAI & Anthropic APIs · Hugging Face
+**Data:** Oracle · PostgreSQL · Qdrant / pgvector
+**Infra:** Docker · FastAPI · Git · Azure
 
 ---
 
-💡 *"AI won’t replace humans, but humans with AI will replace humans without AI."*  
-📬 Reach me at: [Shrikant Yalakki](https://www.linkedin.com/in/shrikantyalakki) | [Portfolio](https://shrikantpy.github.io)
+## 📈 GitHub Stats
 
-<!---
-shrikantpy/shrikantpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrikantpy&show_icons=true&theme=default&hide_border=true)
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- **Email:** your.email@example.com
+
+*Open to roles and collaborations in Agentic AI, GenAI engineering, and AI + enterprise data.*
