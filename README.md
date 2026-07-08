@@ -40,7 +40,7 @@ With 20+ years in **Data Engineering, Oracle Apps, and BI**, I now focus on **bu
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrikantpy&show_icons=true&theme=radical)
 
 ---
 
