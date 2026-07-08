@@ -1,45 +1,46 @@
 # Hi, I'm Shrikant 👋
 
-**Data Engineering & Oracle ERP veteran (20+ years) → now building Agentic AI systems for enterprise data.**
+**Agentic AI & GenAI Architect** — designing LLM-powered agents, RAG systems, and AI platforms for enterprise data. Backed by 22+ years of enterprise data and BI architecture.
 
-I've spent two decades designing data pipelines, BI solutions, and Oracle-based enterprise systems. I'm now applying that foundation to the next layer of the stack: **AI agents that can reason over, query, and act on enterprise data** — safely and observably.
-
----
-
-## 🔭 Currently Building
-
-> These projects are in active development — links will go live as each one ships.
-
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| **Agentic BI Analyst** | Natural-language questions → planned SQL → validated results → charts & summary, over a mock ERP schema | LangGraph, PostgreSQL, FastAPI | 🚧 In progress |
-| **Enterprise RAG with Evals** | Hybrid retrieval + reranking with a full evaluation harness (faithfulness, answer relevance, context precision) | LlamaIndex, RAGAS, Qdrant | 🚧 In progress |
-| **MCP Server for SQL Databases** | Exposes a relational database to Claude and other agents via the Model Context Protocol | Python, MCP SDK | 📋 Planned |
-| **Multi-Agent Workflow with Observability** | Planner → Executor → Critic pattern with tracing, retries, and human-in-the-loop approval | LangGraph, Langfuse, Docker | 📋 Planned |
+I build **AI agents that reason over, query, and act on enterprise data** — with the guardrails, evaluation, and observability that production systems demand. Hands-on ML since 2021, LLMs and GenAI since 2024, including RAG applications and agents on **Azure AI Foundry**; data engineering, Oracle enterprise systems, and BI (OBIEE, Power BI) since 2003.
 
 ---
 
-## 🧠 Focus Areas
+## 🔭 What I'm Building
 
-- **Agentic AI** — tool/function calling, structured outputs, agent memory, multi-agent orchestration (LangGraph)
-- **RAG systems** — hybrid search, reranking, chunking strategies, and *evaluation* (RAGAS, custom eval harnesses)
+> A focused Agentic AI portfolio in active development — links go live as each project ships. Every repo includes an `ARCHITECTURE.md` documenting design decisions, trade-offs, and failure modes.
+
+| # | Project | What it does | Stack | Status |
+|---|---|---|---|---|
+| 1 | **Agent Loop from Scratch** | A bare-metal agent (~150 lines, no frameworks): tool calling, structured outputs, and the reason-act loop with raw LLM APIs | Python, OpenAI/Anthropic SDK | 🚧 In progress |
+| 2 | **Agentic BI Analyst** ⭐ | Natural-language questions → planned SQL → validated, read-only execution → charts & summary, over a mock ERP schema | LangGraph, PostgreSQL, FastAPI | 📋 Up next |
+| 3 | **Enterprise RAG with Evals** | Hybrid retrieval + reranking with a measured evaluation harness — golden dataset, RAGAS metrics, before/after comparison | LlamaIndex, RAGAS, Qdrant | 📋 Planned |
+| 4 | **MCP Server for SQL Databases** | Exposes a relational database to Claude and other agents via the Model Context Protocol, with read-only guardrails | Python, MCP SDK | 📋 Planned |
+| 5 | **Same Agent, Two Ways** | The BI Analyst rebuilt on Azure AI Foundry, with an ADR comparing framework vs. managed platform — cost, control, and when to choose each | Azure AI Foundry | 📋 Planned |
+
+---
+
+## 🧠 AI Focus Areas
+
+- **Agentic AI architecture** — tool/function calling, structured outputs, agent memory, multi-agent orchestration (LangGraph)
+- **RAG systems** — hybrid search, reranking, chunking strategies, and *measured evaluation* (RAGAS, custom eval harnesses)
 - **MCP (Model Context Protocol)** — connecting agents to enterprise tools and data sources
-- **LLMOps** — tracing, cost tracking, guardrails, prompt versioning, deployment (Docker + FastAPI)
+- **Build vs. buy** — open-source frameworks vs. managed platforms (Azure AI Foundry), and when each wins
+- **LLMOps & governance** — tracing, cost optimization, guardrails, PII handling, evals in CI/CD
+- **ML / Deep Learning** — supervised learning, neural networks, model evaluation
 
-## 🏗️ Foundation (20+ years)
+## 💡 Why My Background Is an Edge
 
-- **Data Engineering** — ETL/ELT pipeline design, data warehousing, data modeling
-- **Oracle ERP & Databases** — PL/SQL, performance tuning, enterprise integrations
-- **Business Intelligence** — reporting, dashboards, semantic layers
-- **Python & SQL** — daily drivers
+Most AI engineers have never lived inside an ERP, a data warehouse, or a semantic layer. I have — for 22 years. That means the agents I design already account for what enterprise AI actually breaks on: messy schemas, access control, data governance, query cost, and stakeholders who need numbers they can trust. Enterprise data expertise isn't my job target — it's my unfair advantage in AI.
 
 ---
 
 ## 🛠️ Tech Stack
 
+**AI/ML:** Azure AI Foundry · LangGraph · LangChain · LlamaIndex · OpenAI & Anthropic APIs · RAGAS · Hugging Face · scikit-learn · TensorFlow/PyTorch
 **Languages:** Python · SQL · PL/SQL
-**AI/ML:** LangGraph · LangChain · LlamaIndex · OpenAI & Anthropic APIs · Hugging Face
 **Data:** Oracle · PostgreSQL · Qdrant / pgvector
+**BI:** OBIEE · Power BI
 **Infra:** Docker · FastAPI · Git · Azure
 
 ---
@@ -52,7 +53,5 @@ I've spent two decades designing data pipelines, BI solutions, and Oracle-based 
 
 ## 📫 Connect
 
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-- **Email:** your.email@example.com
-
-*Open to roles and collaborations in Agentic AI, GenAI engineering, and AI + enterprise data.*
+- **LinkedIn:** [linkedin.com/in/shrikantyalakki](https://www.linkedin.com/in/shrikantyalakki/)
+- **Email:** shrikantpy@gmail.com
