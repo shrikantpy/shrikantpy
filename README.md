@@ -12,8 +12,8 @@ I build **AI agents that reason over, query, and act on enterprise data** — wi
 
 | # | Project | What it does | Stack | Status |
 |---|---|---|---|---|
-| 1 | **Agent Loop from Scratch** | A bare-metal agent (~150 lines, no frameworks): tool calling, structured outputs, and the reason-act loop with raw LLM APIs | Python, OpenAI/Anthropic SDK | 🚧 In progress |
-| 2 | **Agentic BI Analyst** ⭐ | Natural-language questions → planned SQL → validated, read-only execution → charts & summary, over a mock ERP schema | LangGraph, PostgreSQL, FastAPI | 📋 Up next |
+| 1 | **[Agent Loop from Scratch](https://github.com/shrikantpy/agent-loop-from-scratch)** | A bare-metal agent (~250 lines, no frameworks): tool calling, structured outputs, and the reason-act loop with raw LLM APIs | Python, OpenAI/Anthropic SDK | ✅ Completed |
+| 2 | **Agentic BI Analyst** ⭐ | Natural-language questions → planned SQL → validated, read-only execution → charts & summary, over a mock ERP schema | LangGraph, PostgreSQL, FastAPI | 🚧 In progress |
 | 3 | **Enterprise RAG with Evals** | Hybrid retrieval + reranking with a measured evaluation harness — golden dataset, RAGAS metrics, before/after comparison | LlamaIndex, RAGAS, Qdrant | 📋 Planned |
 | 4 | **MCP Server for SQL Databases** | Exposes a relational database to Claude and other agents via the Model Context Protocol, with read-only guardrails | Python, MCP SDK | 📋 Planned |
 | 5 | **Same Agent, Two Ways** | The BI Analyst rebuilt on Azure AI Foundry, with an ADR comparing framework vs. managed platform — cost, control, and when to choose each | Azure AI Foundry | 📋 Planned |
